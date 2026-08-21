@@ -59,3 +59,18 @@ Overall: Strong
 
 ## Example Output
 ![Password Strength Checker Output](<Screenshot 2026-08-20 214158.png>)
+
+
+## How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Ranarde/password-strength-checker.git
+cd password-strength-checker
+
+```
+### 2. Run the program
+```bash
+python password_checker.py
+```
