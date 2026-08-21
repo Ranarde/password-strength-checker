@@ -56,7 +56,6 @@ Password Strength Score: 5/5
 Overall: Strong
 ```
 
-Markdown
 
 ## Example Output
 ![Password Strength Checker Output](<Screenshot 2026-08-20 214158.png>)
